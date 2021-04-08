@@ -28,3 +28,4 @@ view / jsp  <% %> 표현식태그 70%이상 사용
       2.뷰(EL)
       3.사용자 정의태그(JSTL : JAKARTA STANDARD TAG LIBRALY)
       
+servlet library - apache tomcat-servlet-api.jar
