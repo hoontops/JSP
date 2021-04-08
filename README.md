@@ -5,10 +5,10 @@ now the jsp model one study version.
 #model 2 notice
 
 Browser    →→→         a.REQUEST          →→       Controller <servlet>  →→→   instanttiate (*)
-  ↑   (web servlet annotation, web.xml register)                                  ↓
- ↑                                                                                ↓  request
- ↑                                                                                ↓
- └                 ←←  Respinse      ←←    JSP<<view>>                    Model(*JAVABEAN)
+  ↑   (web servlet annotation, web.xml register)                                    ↓
+  ↑                                                                                 ↓  request
+  ↑                                                                                 ↓
+  └                 ←←  Respinse      ←←    JSP<<view>>                    Model(*JAVABEAN)
                                           
                                           only 디자이너 영역
 
